@@ -4,7 +4,7 @@ Lossless Huffman coding for text & image files
 ![image alt](https://github.com/Shivani-hub-x/SHRINKIT-Compression-Studio/blob/86443dd3bc71edfcf066423504f5fdd3effd9516/Screenshot%202026-06-18%20151325.png)
 ![image alt](https://github.com/Shivani-hub-x/SHRINKIT-Compression-Studio/blob/e28838dda4e8f8357fd161cc04b8e6016b7bcd32/Screenshot%202026-06-18%20161027.png)
 ![image alt](https://github.com/Shivani-hub-x/SHRINKIT-Compression-Studio/blob/84f0a17793b62a1f4ac08307172344aadbb17fd9/Screenshot%202026-06-18%20161040.png)
-![image alt]()
+![image alt](https://github.com/Shivani-hub-x/SHRINKIT-Compression-Studio/blob/ae0e72d4d72808a36670984eee6dae8562b3f03d/Screenshot%202026-06-18%20161134.png)
 ![image alt]()
 ![image alt]()
 ---
