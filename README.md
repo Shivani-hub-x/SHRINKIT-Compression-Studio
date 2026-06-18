@@ -2,7 +2,11 @@
 ### Cross-platform GUI — Windows & macOS
 Lossless Huffman coding for text & image files
 ![image alt](https://github.com/Shivani-hub-x/SHRINKIT-Compression-Studio/blob/86443dd3bc71edfcf066423504f5fdd3effd9516/Screenshot%202026-06-18%20151325.png)
-
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 ---
 
 ## 📁 Project Structure
